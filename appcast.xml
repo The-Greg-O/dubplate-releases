@@ -3,6 +3,35 @@
   <channel>
     <title>Dubplate</title>
     <item>
+      <title>0.2.3</title>
+      <pubDate>Thu, 09 Jul 2026 13:55:00 -0700</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<style>
+  body { font: 13px -apple-system, "Helvetica Neue", sans-serif; color: #333; margin: 14px 16px; }
+  @media (prefers-color-scheme: dark) { body { color: #ddd; } h2 { color: #fff; } }
+  h2 { font-size: 15px; margin: 0 0 10px; }
+  ul { padding-left: 18px; margin: 0; }
+  li { margin: 5px 0; }
+  .t { font-weight: 600; color: #5fa98f; }
+</style>
+<h2>Dubplate 0.2.3</h2>
+<ul>
+  <li><span class="t">Quality</span> &ldquo;Best&rdquo; is now the default for new splits &mdash; ensemble acapellas and cascaded full stems out of the box.</li>
+  <li><span class="t">Welcome</span> The empty queue now walks you through drop &rarr; process &rarr; export, with format notes built in.</li>
+  <li><span class="t">Installer</span> The download is a proper drag-to-Applications window &mdash; no more read-me file.</li>
+  <li><span class="t">Updates</span> Release notes now appear right here instead of a web page, and Dubplate checks for updates daily on its own.</li>
+</ul>
+]]></description>
+      <enclosure
+        url="https://github.com/The-Greg-O/dubplate-releases/releases/download/v0.2.3/Dubplate-0.2.3.dmg"
+        sparkle:edSignature="ScggeA9F/FkphDKmIkTiqndhEduRejr0wJvLsfOY1ba6ahHLO+tz3mi8uWu/1O5B6GbS1NjLynJTPcTHiz/vBQ=="
+        length="22370210"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.2</title>
       <pubDate>Thu, 09 Jul 2026 13:20:00 -0700</pubDate>
       <sparkle:version>4</sparkle:version>

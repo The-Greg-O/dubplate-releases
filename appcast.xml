@@ -3,6 +3,19 @@
   <channel>
     <title>Dubplate</title>
     <item>
+      <title>0.2.2</title>
+      <pubDate>Thu, 09 Jul 2026 13:20:00 -0700</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/The-Greg-O/dubplate-releases/releases/tag/v0.2.2</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/The-Greg-O/dubplate-releases/releases/download/v0.2.2/Dubplate-0.2.2.dmg"
+        sparkle:edSignature="8Wbn/YrxFhWPl7GsVb7p+NabUjW/0huhdvMwzBZN7ftbk3LErDp4TYPFauBAoAyrSdZs9k9U+v/AGAcMBaztDA=="
+        length="22271027"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.1</title>
       <pubDate>Thu, 09 Jul 2026 12:45:00 -0700</pubDate>
       <sparkle:version>3</sparkle:version>

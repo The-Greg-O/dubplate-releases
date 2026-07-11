@@ -3,6 +3,32 @@
   <channel>
     <title>Dubplate</title>
     <item>
+      <title>0.2.4</title>
+      <pubDate>Sat, 11 Jul 2026 09:30:00 -0700</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<style>
+  body { font: 13px -apple-system, "Helvetica Neue", sans-serif; color: #333; margin: 14px 16px; }
+  @media (prefers-color-scheme: dark) { body { color: #ddd; } h2 { color: #fff; } }
+  h2 { font-size: 15px; margin: 0 0 10px; }
+  ul { padding-left: 18px; margin: 0; }
+  li { margin: 5px 0; }
+  .t { font-weight: 600; color: #5fa98f; }
+</style>
+<h2>Dubplate 0.2.4</h2>
+<ul>
+  <li><span class="t">Setup</span> First-launch setup is now fully silent &mdash; on a fresh Mac, a stray macOS developer-tools installer could previously pop up (hidden behind the window). Dubplate now provisions its own private engine without touching anything system-wide.</li>
+</ul>
+]]></description>
+      <enclosure
+        url="https://github.com/The-Greg-O/dubplate-releases/releases/download/v0.2.4/Dubplate-0.2.4.dmg"
+        sparkle:edSignature="OBQSeLWj6idJk/f8SxJ5kL4cRdxRctjuDIig/jhkqIHJwre7HOOwTDFej6UJgvsjhD/+DM2QWOJqUoSlJFrxCA=="
+        length="22370343"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.3</title>
       <pubDate>Thu, 09 Jul 2026 13:55:00 -0700</pubDate>
       <sparkle:version>5</sparkle:version>
